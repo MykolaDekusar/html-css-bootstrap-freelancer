@@ -1,0 +1,7 @@
+/* ICON CIRCLE */
+.icons i {
+    width: var(--md-component-social-width, 40px);
+    height: var(--md-component-social-height, 40px);
+    border: 1px solid white;
+    line-height: calc(var(--md-component-social-height, 40px) - 2px);
+}
